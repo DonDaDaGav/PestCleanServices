@@ -1,0 +1,115 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900);
+h3{
+	color: purple;
+	font-size: 2.2em;
+}
+P{
+	color:#007AF3 ;
+}
+body{
+	background :  #F2F2F2;
+	margin: 0;
+	color:  #000000;
+	font-family:"Source Code Pro" ;
+	text-align: center;
+     }
+.navbar{
+	background: ghostwhite;
+	padding: 1em;
+        }
+        .bar{background: white;
+        	padding: 5em;
+        	
+        	font-family: cursive;
+        	text-align: center;
+
+        }
+.hme{
+	text-decoration:none ;
+		font-weight:bold ;
+		color: black ;
+		font-size:1.2em ;
+
+     }
+.ser{
+	text-decoration:none ;
+		font-weight:bold ;
+		color: black ;
+		font-size:1.2em ;
+	}
+.con{
+		text-decoration:none ;
+		font-weight:bold ;
+		color: black ;
+		font-size:1.2em ;
+	}
+.abo{
+		text-decoration:none ;
+		font-weight:bold ;
+		color: black ;
+		font-size:1.2em ;
+	}
+
+    .logo {
+		text-decoration:none ;
+		font-weight:bold ;
+		color: black ;
+		font-size:3.2em ;
+
+		}
+		span{
+			color:#007AF3 ;
+		}
+img{
+ 
+	height: 600px;
+	border-radius: 15%;
+	margin-left: 2em;
+	
+    }
+
+nav{
+	text-decoration:none ;
+		font-weight:bold ;
+		color: black ;
+		font-size:1.2em ;
+
+}
+h3{
+	font-size: 2em;
+} 
+label{
+	display: block;
+	font-size: 1.2em;
+	margin-bottom: 5em;
+}
+input,textarea{
+	width: 100%;
+	padding: .8em;
+	margin-bottom: 1em;
+	border-radius: .3em;
+    border: 1px solid gray;
+    box-sizing: border-box;
+}
+.send-message-cta{
+	background-color: grey;
+	color: black;
+	font-weight: bold ;
+	font-size: 1.3em; 
+	border:none ;
+	margin-bottom: 5em;
+    border-radius: 5em;
+    display: inline-block;
+    padding: .8em 2em;
+    width: unset;
+    cursor: pointer ;
+   
+}
+iframe{
+	width: 100%;
+	height: 600px;
+}
+h5{color: black;
+	font-size: 1.2em;
+
+}
